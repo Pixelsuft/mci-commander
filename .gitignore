@@ -1,0 +1,9 @@
+__pycache__
+.idea
+*.bak
+package-lock.json
+node_modules
+.vs
+Debug
+Release
+x64
